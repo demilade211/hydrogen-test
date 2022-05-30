@@ -96,7 +96,7 @@ const HomePage = () => {
         >
             <Drawer
                 title="New Note"
-                width={450}
+                width={350}
                 onClose={onClose}
                 visible={visible}
                 bodyStyle={{
